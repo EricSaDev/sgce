@@ -11,7 +11,8 @@
 |	http://example.com/
 |
 */
-$config['base_url']	     = "http://localhost/sgce/";
+#$config['base_url']	     = "http://localhost/sgce/";
+$config['base_url']	     = "http://sgce-sema-sgce.apps.cluster-lb9294.lb9294.example.opentlc.com/";
 $config['sigla_sistema']     = "SGCE"; //colocar a sigla referente ao sistema
 
 /*
