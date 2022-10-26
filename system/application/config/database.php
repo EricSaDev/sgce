@@ -39,9 +39,9 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = "postgresql.sema-sgce.svc";
 $db['default']['port']     = "5432";
-$db['default']['username'] = "pgdb";
-$db['default']['password'] = "pgdb";
-$db['default']['database'] = "pgdb";
+$db['default']['username'] = "sgce";
+$db['default']['password'] = "12345678";
+$db['default']['database'] = "sgce";
 $db['default']['dbdriver'] = "postgre";
 $db['default']['dbprefix'] = "";
 $db['default']['pconnect'] = TRUE;
